@@ -15,3 +15,5 @@ Der SChnürsenkel ist uns also täglich ein guter Begleiter. Man kann ihn sogar 
 Der Schnürsenkel sagte einmal:
 > Ich habe immer Wort gehalten.
 > Und halten ist meine Berufung.
+
+<img src="URL"/senkel.png>
