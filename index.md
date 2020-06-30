@@ -10,3 +10,8 @@ Der SChnürsenkel ist uns also täglich ein guter Begleiter. Man kann ihn sogar 
 * biegsam
 * modische
 * stark
+
+
+Der Schnürsenkel sagte einmal:
+> Ich habe immer Wort gehalten.
+> Und halten ist meine Berufung.
